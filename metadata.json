@@ -1,0 +1,6 @@
+{
+  "name": "Portxz - 15s Vertical Video Ad Studio",
+  "description": "Interactive 15-second vertical (9:16) promotional video ad player, exporter, and editor for Portxz SaaS with Web Audio beat drop and voiceover narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
